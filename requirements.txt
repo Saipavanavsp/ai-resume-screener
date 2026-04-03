@@ -1,0 +1,24 @@
+fastapi
+uvicorn
+langchain
+langchain-core
+langchain-openai
+langchain-anthropic
+langgraph
+pinecone-client
+python-dotenv
+pypdf
+tavily-python
+notion-client
+pydantic
+reportlab
+python-multipart
+langsmith
+# ML Baselines
+scikit-learn
+pandas
+numpy
+# Testing & Notebooks
+pytest
+jupyter
+ipykernel
