@@ -18,7 +18,5 @@ langsmith
 scikit-learn
 pandas
 numpy
-# Testing & Notebooks
 pytest
-jupyter
 ipykernel
